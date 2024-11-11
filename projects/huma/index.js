@@ -9,6 +9,9 @@ const config = {
   },
   polygon: {
     v1Pools: ['0xe8926adbfadb5da91cd56a7d5acc31aa3fdf47e5', '0x95533e56f397152b0013a39586bc97309e9a00a7', '0x3EBc1f0644A69c565957EF7cEb5AEafE94Eb6FcE'],
+  },
+  scroll: {
+    factory: '0xb273a8456824E72BecD5fa25C7aC89c9277E2243',
   }
 }
 
